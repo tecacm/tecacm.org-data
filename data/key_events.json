@@ -1,0 +1,11 @@
+[
+  {
+    "imageUrl": "https://cdn.jsdelivr.net/gh/tecacm/tecacm.org-data@main/images/buildings/ciap.webp",
+    "type": "Evento Semanal",
+    "title": "Simulaciones ICPC",
+    "description": "Por parte del club de programación competitiva RamCPP los invitamos a unirse y participar de manera presencial o en línea a las simulaciones.\n Estas son una excelente oportunidad para practicar y mejorar tus habilidades de programación, así como para prepararte para el concurso ICPC. Las simulaciones se llevan a cabo cada sábado en📍A3-205.",
+    "urlTitle": "ICPC",
+    "url": "/icpc",
+    "color": "bg-tecacm-sky"
+  }
+]
