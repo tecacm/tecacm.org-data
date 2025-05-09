@@ -1,29 +1,26 @@
 [
-    {
-      "id": "1",
-      "name": "TecACM",
-      "link": "https://linktr.ee/tecacmmty",
-      "logo": "src/assets/images/tecacm-icon.png",
-      "description": "grupo estudiantil sppp banger metanse",
-      "color": "bg-indigo-100",
-      "barcolor": "bg-indigo"
-    },
-    {
-      "id": "2",
-      "name": "HackMTY",
-      "link": "https://hackmty.com/",
-      "logo": "src/assets/images/hackmty-icon.png",
-      "description": "grupo estudiantil sppp banger metanse okay wait testing a liiiittle something oh good okay",
-      "color": "bg-purple-100",
-      "barcolor": "bg-purple"
-    },
-    {
-      "id": "3",
-      "name": "RAMcpp",
-      "link": "https://linktr.ee/ramcpp",
-      "logo": "src/assets/images/rams-logo.png",
-      "description": "grupo estudiantil sppp banger metanse",
-      "color": "bg-sky-100",
-      "barcolor": "bg-sky"
-    }
-  ]
+  {
+    "id": "1",
+    "name": "TecACM",
+    "link": "https://linktr.ee/tecacmmty",
+    "logo": "src/assets/images/tecacm-icon.png",
+    "description": "ACM student chapter at Tecnológico de Monterrey. Find events on everything related to computer engineering.",
+    "barcolor": "bg-cyan-900"
+  },
+  {
+    "id": "2",
+    "name": "HackMTY",
+    "link": "https://hackmty.com/",
+    "logo": "src/assets/images/hackmty-icon.png",
+    "description": "Latin America's largest student hackathon, hosted at Tecnológico de Monterrey. 2025 season coming soon.",
+    "barcolor": "bg-purple-950"
+  },
+  {
+    "id": "3",
+    "name": "RAMcpp",
+    "link": "https://linktr.ee/ramcpp",
+    "logo": "src/assets/images/rams-logo.png",
+    "description": "Competitive Programming student club at Tecnológico de Monterrey, and hosts for the university's ICPC competitions.",
+    "barcolor": "bg-sky-900"
+  }
+]
