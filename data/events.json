@@ -21,7 +21,7 @@
       "description": "Tercera fecha eliminatoria para el gran Premio México"
     },
     {
-      "imageUrl": "/images/events/ciberistas.webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/tecacm/tecacm.org-data@main/images/events/ciberistas.webp",
       "title": "Talleres de ciberistas",
       "date": "23 Junio, 2025",
       "location": "A3-205",
