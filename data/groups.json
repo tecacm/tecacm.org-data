@@ -5,7 +5,8 @@
       "link": "https://linktr.ee/tecacmmty",
       "logo": "src/assets/images/tecacm-icon.png",
       "description": "grupo estudiantil sppp banger metanse",
-      "color": "bg-indigo-100"
+      "color": "bg-indigo-100",
+      "barcolor": "bg-indigo"
     },
     {
       "id": "2",
@@ -13,7 +14,8 @@
       "link": "https://hackmty.com/",
       "logo": "src/assets/images/hackmty-icon.png",
       "description": "grupo estudiantil sppp banger metanse okay wait testing a liiiittle something oh good okay",
-      "color": "bg-purple-100"
+      "color": "bg-purple-100",
+      "barcolor": "bg-purple"
     },
     {
       "id": "3",
@@ -21,6 +23,7 @@
       "link": "https://linktr.ee/ramcpp",
       "logo": "src/assets/images/rams-logo.png",
       "description": "grupo estudiantil sppp banger metanse",
-      "color": "bg-sky-100"
+      "color": "bg-sky-100",
+      "barcolor": "bg-sky"
     }
   ]
