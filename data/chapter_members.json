@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Alexa Nohemi Lara Carvajal",
+        "role": "President",
+        "description": "Leads the student chapter, sets the vision, and oversees all activities",
+        "github": "https://github.com/Alexa404NL",
+        "linkedin": "https://www.linkedin.com/in/alexa-lara-carvajal/",
+        "instagram": "https://www.instagram.com/alexa._.larac?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+        "email": "",
+        "image": "/images/members/DSC_0411.webp"
+    },
+    {
+        "name": "Ernesto Garza Berrueto",
+        "role": "Vice President",
+        "description": "Supports the President and coordinates team efforts",
+        "github": "https://github.com/UnlikePaladin",
+        "linkedin": "https://www.linkedin.com/in/ernesto-garza-berrueto/",
+        "instagram": "https://www.instagram.com/netogb_04/",
+        "email": "",
+        "image": "/images/members/DSC_0414.webp"
+    },
+    {
+        "name": "Alex Renato Peña Herrera",
+        "role": "Logistics",
+        "description": "Manages event planning, resources, and operations",
+        "github": "https://github.com/Realex78",
+        "linkedin": "https://www.linkedin.com/in/alex-renato-pe%C3%B1a-herrera/",
+        "instagram": "https://www.instagram.com/devrealex78/",
+        "email": "",
+        "image": "/images/members/DSC_0407.webp"
+    },
+    {
+        "name": "Sergio Gómez Guerrero",
+        "role": "Treasurer",
+        "description": "Manages the chapter's finances, budgets, and fundraising",
+        "github": "https://github.com/SerGG52151",
+        "linkedin": "https://www.linkedin.com/in/sergio-g%C3%B3mez-guerrero-301b6731a/",
+        "instagram": "https://www.instagram.com/sergg_52/",
+        "email": "",
+        "image": "/images/members/DSC_0424.webp"
+    },
+    {
+        "name": "Marian Hernández Charles",
+        "role": "Communications",
+        "description": "Manages outreach, social media, and public relations",
+        "github": "https://github.com/mar-hz",
+        "linkedin": "https://www.linkedin.com/in/marian-hernandez-ch/",
+        "instagram": "https://www.instagram.com/marian.hdzc/",
+        "email": "",
+        "image": "/images/members/DSC_0434.webp"
+    },
+    {
+        "name": "Rodrigo Gamboa Herrera",
+        "role": "Social Responsibilty",
+        "description": "Promotes and organizes community engagement and outreach initiatives",
+        "github": "https://github.com/Rodrogamby",
+        "linkedin": "https://www.linkedin.com/in/rdgamboa/",
+        "instagram": "",
+        "email": "",
+        "image": "/images/members/DSC_0431.webp"
+    },
+    {
+        "name": "Alejandro Guajardo Caba",
+        "role": "Education",
+        "description": "Organizes and leads workshops and educational events",
+        "github": "https://github.com/aguajardoc",
+        "linkedin": "https://www.linkedin.com/in/aguajardoc/",
+        "instagram": "https://www.instagram.com/alexguajardoc/",
+        "email": "",
+        "image": "/images/members/DSC_0425.webp"
+    },
+    {
+        "name": "Marco Antonio Torres Ramírez",
+        "role": "IT",
+        "description": "Maintains technical infrastructure and digital tools",
+        "github": "https://github.com/marco160905",
+        "linkedin": "https://www.linkedin.com/in/marco-antonio-torres-ramirez-b708a8356/",
+        "instagram": "https://www.instagram.com/marco._torres_/",
+        "email": "",
+        "image": "/images/members/DSC_0441.webp"
+    },
+    {
+        "name": "Mauricio Cavazos Lartigue",
+        "role": "Legal Affairs",
+        "description": "Ensures compliance with regulations and handles legal matters",
+        "github": "",
+        "linkedin": "",
+        "instagram": "https://www.instagram.com/mau.larti/",
+        "email": "",
+        "image": "/images/members/DSC_0436.webp"
+    }
+]

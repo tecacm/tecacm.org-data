@@ -1,0 +1,31 @@
+[
+    {
+      "imageUrl": "/images/events/icpc1.webp",
+      "title": "Fecha 1 ICPC",
+      "date": "3 Mayo, 2025",
+      "location": "A3-205",
+      "description": "Primera fecha eliminatoria para el gran Premio México"
+    },
+    {
+      "imageUrl": "/images/events/icpc2.webp",
+      "title": "Fecha 2 ICPC",
+      "date": "31 Mayo, 2025",
+      "location": "A3-205",
+      "description": "Segunda fecha eliminatoria para el gran Premio México"
+    },
+    {
+      "imageUrl": "/images/events/icpc3.webp",
+      "title": "Fecha 3 ICPC",
+      "date": "21 Junio, 2025",
+      "location": "A3-205",
+      "description": "Tercera fecha eliminatoria para el gran Premio México"
+    },
+    {
+      "imageUrl": "/images/events/ciberistas.webp",
+      "title": "Talleres de ciberistas",
+      "date": "23 Junio, 2025",
+      "location": "A3-205",
+      "description": "Servicio social compuesto de 4 talleres que te da 200 horas durante el periodo de verano"
+    }
+  ]
+  
