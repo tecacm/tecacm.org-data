@@ -13,13 +13,14 @@
   },
   {
     "imageUrl": "https://cdn.jsdelivr.net/gh/tecacm/tecacm.org-data@main/images/events/salon-icpc.webp",
-    "type": "Registro Activo",
+    "type": "Registro Cerrado",
     "title": "Tercera Fecha de ICPC",
     "description": "Se aproxima la tercera fecha de ICPC, si deseas registrar a tu equipo. Estás en el lugar correcto!\n Si estuviste registrado en la fecha 1 o 2, no es necesario que lo vuelvas a hacer",
-    "urlTitle": "Registrar a mi equipo",
-    "url": "#tally-open=m6MoPB&tally-emoji-text=🎈&tally-emoji-animation=bounce",
+    "urlTitle": "",
+    "url": "#",
     "color": "bg-blue-500",
-    "preUrlMsg": "Haz click aquí: "
+    "preUrlMsg": "",
+    "location": "A3-205"
   },
   {
     "imageUrl": "https://cdn.jsdelivr.net/gh/tecacm/tecacm.org-data@main/images/buildings/ciap.png",
