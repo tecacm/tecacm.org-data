@@ -1,20 +1,21 @@
 [
   {
-    "imageUrl": "https://cdn.jsdelivr.net/gh/tecacm/tecacm.org-data@main/images/events/ciberistas-2.webp",
-    "type": "Servicio Social",
-    "title": "Aplicación: Servicio de Ciberistas Verano 2025",
-    "description": "TecACM ofrece junto con ciberistas un programa que puede acreditarte hasta 200 horas.\n Tu trabajo es impartir clases a niños y adolescentes. Hay talleres de desarrollo web, scratch, python y C++.\nLos requisitos son dominio sobre el tema, paciencia con los niños y disponibilidad en tu horario.",
-    "urlTitle": "",
-    "url": "#",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/tecacm/tecacm.org-data@main/images/events/hackmty2024.webp",
+    "type": "Registro Activo",
+    "title": "HackMTY 2025",
+    "description": "Participa en la decima edición del HackMTY organizada por TecACM, no te lo pierdas, será un evento inolvidable!",
+    "urlTitle": "Registrarme",
+    "url": "www.hackmty.com",
     "color": "bg-violet-500",
-    "preUrlMsg": "Registro cerrado",
-    "date": "Presencial: 30 junio - 11 julio. Virtual: 14 - 25 julio"
+    "preUrlMsg": "Haz click aquí: ",
+    "date": "Octubre 24-26",
+    "location": "Arena Borregos"
   },
   {
     "imageUrl": "https://cdn.jsdelivr.net/gh/tecacm/tecacm.org-data@main/images/events/salon-icpc.webp",
     "type": "Registro Activo",
-    "title": "Segunda Fecha de ICPC",
-    "description": "Se aproxima la segunda fecha de ICPC, si deseas registrar a tu equipo. Estás en el lugar correcto!\n Si estuviste registrado en la fecha 1, no es necesario que lo vuelvas a hacer",
+    "title": "Tercera Fecha de ICPC",
+    "description": "Se aproxima la tercera fecha de ICPC, si deseas registrar a tu equipo. Estás en el lugar correcto!\n Si estuviste registrado en la fecha 1 o 2, no es necesario que lo vuelvas a hacer",
     "urlTitle": "Registrar a mi equipo",
     "url": "#tally-open=m6MoPB&tally-emoji-text=🎈&tally-emoji-animation=bounce",
     "color": "bg-blue-500",

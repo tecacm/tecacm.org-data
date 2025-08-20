@@ -1,31 +1,24 @@
 [
     {
-      "imageUrl": "/images/events/icpc1.webp",
-      "title": "Fecha 1 ICPC",
-      "date": "3 Mayo, 2025",
-      "location": "A3-205",
-      "description": "Primera fecha eliminatoria para el gran Premio México"
-    },
-    {
-      "imageUrl": "/images/events/icpc2.webp",
-      "title": "Fecha 2 ICPC",
-      "date": "31 Mayo, 2025",
-      "location": "A3-205",
-      "description": "Segunda fecha eliminatoria para el gran Premio México"
-    },
-    {
       "imageUrl": "/images/events/icpc3.webp",
       "title": "Fecha 3 ICPC",
-      "date": "21 Junio, 2025",
+      "date": "23 Agosto, 2025",
       "location": "A3-205",
       "description": "Tercera fecha eliminatoria para el gran Premio México"
     },
     {
-      "imageUrl": "https://cdn.jsdelivr.net/gh/tecacm/tecacm.org-data@main/images/events/ciberistas.webp",
-      "title": "Talleres de ciberistas",
-      "date": "23 Junio, 2025",
+      "imageUrl": "/images/events/icpc2.webp",
+      "title": "Repechaje ICPC",
+      "date": "13 Septiembre, 2025",
       "location": "A3-205",
-      "description": "Servicio social compuesto de 4 talleres que te da 200 horas durante el periodo de verano"
+      "description": "Repechaje para el gran Premio México"
+    },
+    {
+      "imageUrl": "https://cdn.jsdelivr.net/gh/tecacm/tecacm.org-data@main/images/events/hackmty-sign.webp",
+      "title": "HackMTY 2025",
+      "date": "24-26 Octubre, 2025",
+      "location": "Arena Borregos",
+      "description": "La decima edición del Hackathon organizado por TecACM."
     }
   ]
   
