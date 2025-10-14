@@ -1,10 +1,10 @@
 [
   {
     "imageUrl": "https://cdn.jsdelivr.net/gh/tecacm/tecacm.org-data@main/images/events/hackmty2024.webp",
-    "type": "Registro Activo",
+    "type": "Registro Cerrado",
     "title": "HackMTY 2025",
-    "description": "Participa en la decima edición del HackMTY organizada por TecACM, no te lo pierdas, será un evento inolvidable!",
-    "urlTitle": "Registrarme",
+    "description": "La decima edición del HackMTY organizada por TecACM se aproxima, no te lo pierdas, será un evento inolvidable!",
+    "urlTitle": "Conoce más",
     "url": "https://hackmty.com/",
     "color": "bg-violet-500",
     "preUrlMsg": "Haz click aquí: ",
