@@ -1,26 +1,26 @@
 [
   {
     "imageUrl": "https://cdn.jsdelivr.net/gh/tecacm/tecacm.org-data@main/images/events/hackmty2024.webp",
-    "type": "Registro Cerrado",
-    "title": "HackMTY 2025",
-    "description": "La decima edición del HackMTY organizada por TecACM se aproxima, no te lo pierdas, será un evento inolvidable!",
+    "type": "PROXIMAMENTE",
+    "title": "HackMTY 2026",
+    "description": "La decima segunda edición del HackMTY organizada por TecACM se aproxima, no te lo pierdas, será un evento inolvidable!",
     "urlTitle": "Conoce más",
     "url": "https://hackmty.com/",
     "color": "bg-violet-500",
     "preUrlMsg": "Haz click aquí: ",
-    "date": "Octubre 24-26",
-    "location": "Arena Borregos"
+    "date": "Septiembre 25-27",
+    "location": "Centro de Congresos"
   },
   {
     "imageUrl": "https://cdn.jsdelivr.net/gh/tecacm/tecacm.org-data@main/images/events/salon-icpc.webp",
-    "type": "Registro Cerrado",
+    "type": "Registro Abierto",
     "title": "Tercera Fecha de ICPC",
-    "description": "Se aproxima la tercera fecha de ICPC, si deseas registrar a tu equipo. Estás en el lugar correcto!\n Si estuviste registrado en la fecha 1 o 2, no es necesario que lo vuelvas a hacer",
-    "urlTitle": "",
-    "url": "#",
+    "description": "Se aproxima la primera fecha de ICPC, si deseas registrar a tu equipo. Estás en el lugar correcto!",
+    "urlTitle": "Registrate",
+    "url": "https://tally.so/r/m6MoPB",
     "color": "bg-blue-500",
-    "preUrlMsg": "",
-    "date": "Agosto 23",
+    "preUrlMsg": "Haz clic aqui",
+    "date": "Abril 18",
     "location": "A3-205"
   },
   {
