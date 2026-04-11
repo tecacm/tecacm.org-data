@@ -1,24 +1,31 @@
 [
     {
-      "imageUrl": "/images/events/icpc1.webp",
-      "title": "Fecha 0 ICPC",
-      "date": "11 Abril, 2026",
-      "location": "A3-205",
-      "description": "Fecha de preparación para el gran Premio México"
-    },
-    {
       "imageUrl": "/images/events/icpc3.webp",
       "title": "Fecha 1 ICPC",
       "date": "18 Abril, 2026",
       "location": "A3-205",
-      "description": "Primera fecha de eliminatoria para el gran Premio México"
+      "description": "Primera fecha de eliminatoria para el gran Premio de México"
     },
     {
       "imageUrl": "/images/events/icpc2.webp",
       "title": "Fecha 2 ICPC",
-      "date": "18 Mayo, 2026",
+      "date": "16 Mayo, 2026",
       "location": "A3-205",
-      "description": "Segunda fecha de eliminatoria para el gran Premio México"
+      "description": "Segunda fecha de eliminatoria para el gran Premio de México"
+    },
+        {
+      "imageUrl": "/images/events/icpc1.webp",
+      "title": "Fecha 3 ICPC",
+      "date": "29 Agosto, 2026",
+      "location": "A3-205",
+      "description": "Tercera fecha de eliminatoria para el gran Premio de México"
+    },
+        {
+      "imageUrl": "/images/events/icpc4.webp",
+      "title": "Repechaje ICPC",
+      "date": "12 Septiembre, 2026",
+      "location": "A3-205",
+      "description": "Fecha repechaje para el gran Premio México"
     }
   ]
   
